@@ -1,0 +1,13 @@
+{
+  "name": "reproduce-yarn-bin-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "1.14.2"
+  }
+}
